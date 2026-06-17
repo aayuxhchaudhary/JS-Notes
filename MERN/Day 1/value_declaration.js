@@ -1,13 +1,14 @@
-let n = 10
-n=20
+//let , var , const
 
-var m = 10
-m =20 
+let n = 20
+n = 30
 
-const o = 10
-// o=20 // This will cause an error because const variables cannot be reassigned
+var m = 20
+m = 30
+
+const o = 30
 
 
-console.log(n) // Output: 20
-console.log(m) // Output: 20
-console.log(o) // Output: 10
+console.log(n)
+console.log(m)
+console.log(o)
